@@ -1,4 +1,4 @@
-# Amazon Prime Movies and TV Shows Sales Analysis
+# Sales Analysis of Movies and TV Shows on Amazon Prime
 
 This project involves analyzing Amazon Prime's catalog of movies and TV shows, focusing on various aspects such as show distribution by country, release year, ratings, genres, and more. The insights derived can help in understanding content trends, popular genres, age ratings, and regional content distribution on Amazon Prime.
 
